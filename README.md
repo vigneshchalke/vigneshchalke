@@ -1,3 +1,11 @@
+![news24](https://github.com/user-attachments/assets/da4aad45-68dc-4d1d-b8bf-2c5cf7a4341e)
+![news24](https://github.com/user-attachments/assets/aec31136-8906-43f5-a397-08233cae2134)
+
+ 
+
+
+
+
 <h1 align="center">Hi 👋, I'm Vignesh</h1>
 <h3 align="center">student at MIT Mysore</h3>
 
