@@ -1,8 +1,4 @@
 
-![image_processing20201130-21944-1yy5ax8](https://github.com/user-attachments/assets/0ae70bd6-526e-444b-bd38-d45ea5984bbb)
-
-
-
 <h1 align="center">Hi 👋, I'm Vignesh</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vigneshchalke&label=Profile%20views&color=0e75b6&style=flat" alt="vigneshchalke" /> </p>
 
